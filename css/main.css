@@ -5,7 +5,7 @@ body {
 
 body {
 	margin: 0;
-	background: linear-gradient(45deg, #adc9c8, #b8a5c5);
+	/*background: linear-gradient(45deg, #adc9c8, #b8a5c5);*/
 	font-family: sans-serif;
 	font-weight: 100;
 }
@@ -20,7 +20,7 @@ body {
 }
 
 table {
-	width: 1366px;
+	/*width: 1366px;*/
 	border-collapse: collapse;
 	overflow: hidden;
 	box-shadow: 0 0 20px rgba(0,0,0,0.1);
