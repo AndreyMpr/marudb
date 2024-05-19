@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+}
+
+.filter {
+	min-height: 120px;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+	padding: 20px;
+	position: fixed;
+	background-color: darkgray;
+	min-width: 100%;
+}
+
+.table-view {
+    display: grid;
+}
+
+table {
+    margin-top: 160px;
+    border-collapse: collapse;
+    border-top: 0px;
+}
+
+thead {
+    background-color: #55608f;
+    position: sticky;
+}
+
+table thead {
+    inset-block-start: 160px;
+  }
