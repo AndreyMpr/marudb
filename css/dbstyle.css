@@ -19,7 +19,7 @@ body {
 
 table {
     margin-top: 160px;
-    border-collapse: collapse;
+    /*border-collapse: collapse;*/
     border-top: 0px;
 }
 
@@ -30,4 +30,8 @@ thead {
 
 table thead {
     inset-block-start: 160px;
+}
+
+th, td {
+    padding-right: 12px;
   }
