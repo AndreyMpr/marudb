@@ -34,4 +34,9 @@ table thead {
 
 th, td {
     padding-right: 12px;
+}
+
+table, th, td {
+    border: 1px solid #55608f;
+    border-collapse: collapse;
   }
