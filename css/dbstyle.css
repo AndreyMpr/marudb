@@ -44,6 +44,7 @@ th, td {
 table, th, td {
     border: 1px solid #55608f;
     border-collapse: collapse;
+    height: 2em;
 }
 
 th {
