@@ -24,6 +24,10 @@ table {
     width: -moz-available;
 }
 
+tbody tr:nth-child(odd) {
+    background-color: #e7ecff;
+  }
+
 thead {
     background-color: #55608f;
     position: sticky;
