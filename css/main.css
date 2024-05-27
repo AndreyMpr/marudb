@@ -18,7 +18,7 @@ table, th, td {
 table {
     margin-top: 184px;
     border-top: 0px;
-    width: -moz-available;
+    /*width: -moz-available;*/
 }
   
 th, td {
